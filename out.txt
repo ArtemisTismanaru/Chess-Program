@@ -1,0 +1,92 @@
+--- rulare program: "./proiect 2 n ana1 akd4 aqe4 apd6 nqf4 nkg4 abb2 arc4 apc5 nrb4 nbb6 nqd5 abc6 arb3 arh1 arb1"
+Tabla initiala:
+N_______
+RBRr_b__
+___RPB__
+___KqP__
+___Q____
+___q____
+___k____
+R_______
+Secventa de mutari:
+Lungime: 2
+---_qnd5g5_Rab1g1
+---_qnd5h5_Rab1g1
+---_qnd5f7_Rab1g1
+---_qnd5f5_Rab1g1
+---_qnd5e6_Rab1g1
+---_qnd5g8_Rab1g1
+---_qnd5c6_Rab1g1
+
+// Interpretare secventa de mutari
+// exemplu: ---_qnd5g5_Rab1g1 = regina neagra de la d5 la g5 si tura alba de la b1 la g1
+
+
+---- rulare program: "./proiect 3 a ana1 akd4 aqe4 apd6 nqf4 nkg4 abb2 arc4 apc5 nrb4 nbb6 nqd5 abc6 arb3 arh1 arb1"
+Tabla initiala:
+N_______
+RBRr_b__
+___RPB__
+___KqP__
+___Q____
+___q____
+___k____
+R_______
+Secventa de mutari:
+Lungime: 3
+---_Kad4d5_rnb4c4_Rab1g1
+---_Bac6d5_rnb4a4_Rab1g1
+---_Bac6d5_rnb4b5_Rab1g1
+---_Bac6d5_bnb6c7_Rab1g1
+---_Kad4d5_rnb4b5_Rab1g1
+---_Bac6d5_bnb6d8_Rab1g1
+---_Kad4c3_rnb4a4_Rab1g1
+---_Bac6d5_bnb6a5_Rab1g1
+---_Kad4d5_bnb6d8_Rab1g1
+---_Kad4d5_bnb6c7_Rab1g1
+---_Kad4d5_rnb4a4_Rab1g1
+---_Kad4c3_rnb4b5_Rab1g1
+---_Bac6d5_bbb6a7_Rab1g1
+---_Kad4d5_bnb6a5_Rab1g1
+---_Kad4c3_bnb6d8_Rab1g1
+---_Kad4c3_bnb6c7_Rab1g1
+---_Kad4d5_bbb6a7_Rab1g1
+---_Kad4c3_bnb6a5_Rab1g1
+---_Kad4c3_bbb6a7_Rab1g1
+---_Kad4c3_qnd5h5_Rab1g1
+---_Kad4c3_qnd5f5_Rab1g1
+---_Kad4c3_rnb4a4_Qae4f4
+---_Kad4c3_qnd5e6_Rab1g1
+---_Kad4c3_qnd5d6_Rab1g1
+---_Kad4c3_rnb4b5_Qae4f4
+---_Kad4c3_bbb6c5_Qae4f4
+---_Kad4c3_qnd5g5_Rab1g1
+---_Kad4c3_qnd5g8_Rab1g1
+---_Kad4c3_qnd5f7_Rab1g1
+---_Kad4c3_bnb6c7_Qae4f4
+---_Kad4d5_rnb4b3_Qae4f4
+---_Kad4c3_bnb6d8_Qae4f4
+---_Kad4c3_bnb6a5_Qae4f4
+---_Kad4d5_bnb6a5_Qae4f4
+---_Kad4c3_qnd5c5_Qae4f4
+---_Kad4d5_rnb4b5_Qae4f4
+---_Kad4c3_qnd5c6_Rab1g1
+---_Kad4d5_bnb6d8_Qae4f4
+---_Kad4c3_qnd5e6_Qae4f4
+---_Kad4d5_bnb6a5_Qae4g6
+---_Kad4c3_qnd5d1_Qae4f4
+---_Kad4c3_bbb6a7_Qae4f4
+---_Kad4c3_qnd5h5_Qae4f4
+---_Kad4d5_bnb6c7_Qae4f4
+---_Kad4d5_bbb6a7_Qae4f4
+---_Kad4d5_rnb4a4_Qae4f4
+---_Kad4c3_qnd5d1_Qae4g6
+---_Kad4d5_rnb4b5_Qae4g6
+---_Kad4c3_qnd5f5_Qae4g2
+---_Kad4c3_qnd5g8_Qae4f4
+---_Kad4d5_bnb6c7_Qae4g6
+---_Kad4d5_rnb4a4_Qae4g6
+---_Kad4d5_bbb6a7_Qae4g6
+---_Kad4c3_qnd5c6_Qae4f4
+---_Kad4d5_bbb6c5_Qae4f4
+---_Kad4d5_bbb6c5_Qae4g6
